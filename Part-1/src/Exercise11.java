@@ -9,7 +9,7 @@ public class Exercise11 {
         Scanner sc = new Scanner(System.in);
         System.out.print("input radius = ");
         double r = sc.nextDouble();
-        System.out.println("Perimeter is:" + 2 * Math.PI * r);
-        System.out.println("Area is:" + Math.PI * Math.pow(r,2));
+        System.out.println("Perimeter is:" + (2 * Math.PI * r));
+        System.out.println("Area is:" + (Math.PI * Math.pow(r,2)));
     }
 }
