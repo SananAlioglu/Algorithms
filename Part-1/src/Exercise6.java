@@ -3,6 +3,7 @@ import java.util.Scanner;
 /**
  * @author Sanan
  */
+//Write a Java program to print the sum (addition), multiply, subtract, divide and remainder of two numbers
 public class Exercise6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
