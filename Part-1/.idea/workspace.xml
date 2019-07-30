@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95e14e37-22eb-4c2b-a48d-f6e131f7d14d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise6.java" afterDir="false" />
-    </list>
+    <list default="true" id="95e14e37-22eb-4c2b-a48d-f6e131f7d14d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +29,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercise6.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Exercise7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -67,6 +74,7 @@
         <option value="$PROJECT_DIR$/src/Exercise1.java" />
         <option value="$PROJECT_DIR$/src/Exercise2.java" />
         <option value="$PROJECT_DIR$/src/Exercise6.java" />
+        <option value="$PROJECT_DIR$/src/Exercise7.java" />
       </list>
     </option>
   </component>
@@ -122,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise6">
+  <component name="RunManager" selected="Application.Exercise7">
     <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercise1" />
       <module name="Part-1" />
@@ -137,8 +145,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise7" />
+      <module name="Part-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise7" />
         <item itemvalue="Application.Exercise6" />
         <item itemvalue="Application.Exercise1" />
       </list>
@@ -154,12 +170,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564508417605</updated>
-      <workItem from="1564508422600" duration="2921000" />
+      <workItem from="1564508422600" duration="3924000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2921000" />
+    <option name="totallyTimeSpent" value="3924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -222,6 +238,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
         </state>
       </provider>
     </entry>
